@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi👋, I'm Gugu
+
+I'm programming language beginner!
+<br>
+FB: https://www.facebook.com/zhang.jie.10/ <br>
+IG: https://www.instagram.com/opgugu/ <br>
+E-MAIL: a0987869583@gmail.com
+
 
 <!--
 **OPGugu/OPGugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
