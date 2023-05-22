@@ -3,9 +3,10 @@
 ## I'm programming language beginner, Please do give me guidances!
 ### Used Languages and Tools: Java、Html、JavaScript、Ajax、jQuery、Python、Eclipse、UltraEdit、Spring Tool Suite 3、Visual Studio Code、MySQL Workbench、Regis、Linux ubuntu
 
+E-MAIL: a0987869583@gmail.com <br>
 FB: https://www.facebook.com/zhang.jie.10/ <br>
-IG: https://www.instagram.com/opgugu/ <br>
-E-MAIL: a0987869583@gmail.com
+IG: https://www.instagram.com/opgugu/ 
+
 
 
 <!--
